@@ -4,6 +4,7 @@ Autostart Aternos is as the title states it to be. This program/script runs a he
 
 At this current time there is no implementation to handle the queue system for Aternos. I do plan on adding that in but until I encounter it personally I'll just have to hold off.
 
+- Not inputting any username/password will auto generate one for you
 - Program/script may fail during account creation if a captcha occurs
 - Do not use 2FA with this due to it counteracting the point of automation
 - Do not edit/replace/remove any files within the directory due the program being created to look in specific locations for files
